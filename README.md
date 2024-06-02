@@ -1,3 +1,5 @@
+[![Autograding Tests](https://github.com/corndel-swe/hackulator-nimonian/actions/workflows/classroom.yml/badge.svg)](https://github.com/corndel-swe/hackulator-nimonian/actions/workflows/classroom.yml)
+
 <p align="center">
   <img width="200px" src="assets/hackulator-logo.png" />
 </p>
@@ -11,6 +13,7 @@ Bugs... bugs everywhere!
 ## Getting started
 
 1. Make sure your machine is set up according to the instructions with
+
    - [bash](https://tech-docs.corndel.com/bash/)
    - [vscode](https://tech-docs.corndel.com/vscode/)
    - [git](https://tech-docs.corndel.com/git/)
@@ -34,7 +37,8 @@ Bugs... bugs everywhere!
 
 ## Testing
 
-To check if your solution for one of the exercises has worked, you can run the command
+To check if your solution for one of the exercises has worked, you can run the
+command
 
 ```bash
 npm run test
@@ -44,8 +48,8 @@ in the terminal.
 
 > [!TIP]
 >
-> We have included additional scripts to test individual files.
-> For example, running
+> We have included additional scripts to test individual files. For example,
+> running
 >
 > ```bash
 > npm run test:add
@@ -79,7 +83,8 @@ git push
 
 in the terminal.
 
-This means other people can see the code you've written, and you can get help if needed.
+This means other people can see the code you've written, and you can get help if
+needed.
 
 ## Workflow
 
