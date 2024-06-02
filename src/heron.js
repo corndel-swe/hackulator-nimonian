@@ -6,3 +6,5 @@
 function heron(a, b, c) {
   return Math.sqrt(/*🤷*/)
 }
+
+export default heron

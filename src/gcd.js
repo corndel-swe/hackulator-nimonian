@@ -11,3 +11,5 @@ function gcd(a, b) {
   }
   return b
 }
+
+export default gcd
