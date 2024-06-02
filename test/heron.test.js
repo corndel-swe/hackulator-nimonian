@@ -8,6 +8,6 @@ describe('heron function', function () {
   })
 
   it('should return the correct area for another valid triangle', function () {
-    assert.strictEqual(heron(7, 8, 9), Math.sqrt(180)) // Scalene triangle
+    assert.strictEqual(heron(4, 13, 15), 24) // Scalene triangle
   })
 })
