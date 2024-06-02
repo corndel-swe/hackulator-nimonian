@@ -7,7 +7,6 @@ function gcd(a, b) {
   while (a !== 0) {
     let temp = a
     a = b % a
-    b = temp
   }
   return b
 }
