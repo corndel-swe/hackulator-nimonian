@@ -3,7 +3,7 @@
  * divide(15, 3) => 5
  */
 function divide(x, y) {
-  const result = y / x
+  const result = x / y
   return result
 }
 
