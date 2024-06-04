@@ -1,7 +1,7 @@
 [![Autograding Tests](https://github.com/corndel-swe/hackulator-nimonian/actions/workflows/classroom.yml/badge.svg)](https://github.com/corndel-swe/hackulator-nimonian/actions/workflows/classroom.yml)
 
 <p align="center">
-  <img width="200px" src="assets/hackulator-logo.png" />
+  <img width="200px" src="assets/hackulator-logo.png" alt="Hackulator Logo" />
 </p>
 
 # Hackulator
