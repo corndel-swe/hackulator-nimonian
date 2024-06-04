@@ -8,7 +8,7 @@
 
 Welcome to the most hilariously broken calculator on the internet.
 
-Bugs... bugs everywhere!
+Bugs... bugs everywhere! :bug:
 
 ## Getting started
 
